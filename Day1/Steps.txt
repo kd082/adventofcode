@@ -1,0 +1,5 @@
+## Find the Elf carrying the most Calories ##
+Read data from input.txt and save it to a list of array
+
+
+## How many total Calories is that Elf carrying ##
